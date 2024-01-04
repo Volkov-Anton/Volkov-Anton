@@ -41,7 +41,7 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
   <!-- Objective-C -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" width="50" height="50" alt="Objective-C" />
   <!-- Xcode -->
-  <img src="URL_del_icono_Xcode" width="50" height="50" alt="Xcode" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" width="50" height="50" alt="Xcode" />
   <!-- SwiftUI -->
   <img src="URL_del_icono_SwiftUI" width="50" height="50" alt="SwiftUI" />
   <!-- UIKit -->
