@@ -49,5 +49,5 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
 </div>
 
 <div align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/001/004/547/efd.gif" alt="Imagen Divertida" />
+  <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="800" />
 </div>
