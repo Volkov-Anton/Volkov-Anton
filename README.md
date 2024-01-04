@@ -27,7 +27,7 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 
 ### Otros Intereses
 - **Quarks, Materia oscura, Teoría de cuerdas, Relatividad general, Cosmología cuántica y otras movidas muy tochas** 🌌
-- **Comunidad y Aprendizaje Continuo** 🌍📖: Activo en comunidades online, participando en proyectos colaborativos y manteniéndome actualizado con las últimas tendencias y mejores prácticas (ala, para que no digan que no me vendo bien).
+- **Comunidad y Aprendizaje Continuo** 🌍📖: Activo en comunidades online, participando en proyectos colaborativos y manteniéndome actualizado con las últimas tendencias y mejores prácticas (¡ala! para que no digan que no me vendo bien).
 
 ---
 
