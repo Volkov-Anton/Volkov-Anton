@@ -47,3 +47,7 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
   <!-- C++ -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
 </div>
+
+<div align="center">
+  <img src="https://i.kym-cdn.com/photos/images/original/001/004/547/efd.gif" alt="Imagen Divertida" />
+</div>
