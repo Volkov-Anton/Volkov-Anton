@@ -42,12 +42,6 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" width="50" height="50" alt="Objective-C" />
   <!-- Xcode -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" width="50" height="50" alt="Xcode" />
-  <!-- SwiftUI -->
-  <img src="URL_del_icono_SwiftUI" width="50" height="50" alt="SwiftUI" />
-  <!-- UIKit -->
-  <img src="URL_del_icono_UIKit" width="50" height="50" alt="UIKit" />
-  <!-- Core Data -->
-  <img src="URL_del_icono_CoreData" width="50" height="50" alt="Core Data" />
   <!-- Unreal Engine -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="50" height="50" alt="Unreal Engine" />
   <!-- C++ -->
