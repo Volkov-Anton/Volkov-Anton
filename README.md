@@ -32,3 +32,24 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 ---
 
 Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!
+
+### Tecnologías y Herramientas
+
+<div align="center">
+  <!-- Swift -->
+  <img src="[URL_del_icono_Swift](https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg)" width="50" height="50" alt="Swift" />
+  <!-- Objective-C -->
+  <img src="URL_del_icono_ObjectiveC" width="50" height="50" alt="Objective-C" />
+  <!-- Xcode -->
+  <img src="URL_del_icono_Xcode" width="50" height="50" alt="Xcode" />
+  <!-- SwiftUI -->
+  <img src="URL_del_icono_SwiftUI" width="50" height="50" alt="SwiftUI" />
+  <!-- UIKit -->
+  <img src="URL_del_icono_UIKit" width="50" height="50" alt="UIKit" />
+  <!-- Core Data -->
+  <img src="URL_del_icono_CoreData" width="50" height="50" alt="Core Data" />
+  <!-- Unreal Engine -->
+  <img src="URL_del_icono_UnrealEngine" width="50" height="50" alt="Unreal Engine" />
+  <!-- C++ -->
+  <img src="URL_del_icono_Cplusplus" width="50" height="50" alt="C++" />
+</div>
