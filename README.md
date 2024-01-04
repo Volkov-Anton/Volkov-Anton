@@ -33,11 +33,12 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 
 Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!
 
-### Tecnologías y Herramientas
-
 <div align="center">
   <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="800" />
 </div>
+
+### Tecnologías y Herramientas
+
 
 <div align="center">
   <!-- Swift -->
@@ -51,5 +52,3 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
   <!-- C++ -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
 </div>
-
-
