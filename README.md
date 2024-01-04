@@ -37,7 +37,7 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
 
 <div align="center">
   <!-- Swift -->
-  <img src="[URL_del_icono_Swift](https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg)" width="50" height="50" alt="Swift" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="50" height="50" alt="Swift" />
   <!-- Objective-C -->
   <img src="URL_del_icono_ObjectiveC" width="50" height="50" alt="Objective-C" />
   <!-- Xcode -->
