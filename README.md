@@ -36,6 +36,10 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
 ### Tecnologías y Herramientas
 
 <div align="center">
+  <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="800" />
+</div>
+
+<div align="center">
   <!-- Swift -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="50" height="50" alt="Swift" />
   <!-- Objective-C -->
@@ -48,6 +52,4 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="800" />
-</div>
+
