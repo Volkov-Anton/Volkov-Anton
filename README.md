@@ -51,5 +51,5 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
   <!-- Unreal Engine -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="50" height="50" alt="Unreal Engine" />
   <!-- C++ -->
-  <img src="URL_del_icono_Cplusplus" width="50" height="50" alt="C++" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
 </div>
