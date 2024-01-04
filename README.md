@@ -1,53 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="800" />
-  <h1 align="center" style="color: magenta;">¡Bienvenidos a mi perfil, Hackermen!</h1>
-  <h3 align="center" id="typewriter">Swift Padawan. Apasionado de la ciencia ficción, los cómics y el cine de los 80. Friki de Pata Negra.</h3>
+  <h1 align="center"><span style="color:magenta;">¡Bienvenidos a mi perfil, Hackermen!</span></h1>
+  <h3 align="center">Swift Padawan. Apasionado de la ciencia ficción, los cómics y el cine de los 80. Friki de Pata Negra.</h3>
   <a href="https://twitter.com/Anton_VoIkov" target="_blank">
     <img alt="Seguir en X (anteriormente Twitter)" src="https://img.shields.io/twitter/follow/Anton_VoIkov?style=for-the-badge&logo=x&logoColor=white&color=magenta">
   </a>
 </div>
-
-<style>
-  @keyframes typewriter {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  #typewriter {
-    overflow: hidden;
-    border-right: .15em solid magenta;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typewriter 4s steps(40) 1s 1 normal both,
-               blinkTextCursor 500ms steps(40) infinite normal;
-  }
-
-  @keyframes blinkTextCursor {
-    from { border-right-color: magenta; }
-    to { border-right-color: transparent; }
-  }
-</style>
-
-<script>
-  var i = 0;
-  var txt = 'Swift Padawan. Apasionado de la ciencia ficción, los cómics y el cine de los 80. Friki de Pata Negra.';
-  var speed = 50;
-  var container = document.getElementById('typewriter');
-  
-  function typeWriter() {
-    if (i < txt.length) {
-      container.innerHTML += txt.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-
-  document.addEventListener('DOMContentLoaded', (event) => {
-    typeWriter();
-  });
-</script>
-
 
 <hr> <!-- Línea divisoria -->
 
