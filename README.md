@@ -33,7 +33,21 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 ### Otros Intereses
 - **Quarks, Materia oscura, Teoría de cuerdas, Relatividad general, Cosmología cuántica y otras movidas muy tochas** 🌌
 - **Comunidad y Aprendizaje Continuo** 🌍📖: Activo en comunidades online, participando en proyectos colaborativos y manteniéndome actualizado con las últimas tendencias y mejores prácticas (¡ala! para que no digan que no me vendo bien).
+- 
+### Tecnologías y Herramientas
 
+<div align="center">
+  <!-- Swift -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="50" height="50" alt="Swift" />
+  <!-- Objective-C -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" width="50" height="50" alt="Objective-C" />
+  <!-- Xcode -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" width="50" height="50" alt="Xcode" />
+  <!-- Unreal Engine -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="50" height="50" alt="Unreal Engine" />
+  <!-- C++ -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
+</div>
 ---
 ![Actividad de Anton Volkov](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov)
 
@@ -50,7 +64,6 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
   <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="800" />
 </div>
 
-### Tecnologías y Herramientas
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
@@ -79,16 +92,3 @@ Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, a
 | Repository Annual Ranking | Find More |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
-
-<div align="center">
-  <!-- Swift -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="50" height="50" alt="Swift" />
-  <!-- Objective-C -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" width="50" height="50" alt="Objective-C" />
-  <!-- Xcode -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" width="50" height="50" alt="Xcode" />
-  <!-- Unreal Engine -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="50" height="50" alt="Unreal Engine" />
-  <!-- C++ -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
-</div>
