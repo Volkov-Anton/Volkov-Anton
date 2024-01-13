@@ -54,7 +54,7 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 
 ![Actividad de Anton Volkov](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov)
 
-[![Volkov-Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight)](https://git.io/praveenscience)
+(https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Volkov-Anton's github stats](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&theme=tokyonight) | ![Volkov-Anton GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Volkov-Anton&theme=tokyonight) |
 | --- | --- |
