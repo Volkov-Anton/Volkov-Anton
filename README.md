@@ -35,6 +35,11 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 - **Comunidad y Aprendizaje Continuo** 🌍📖: Activo en comunidades online, participando en proyectos colaborativos y manteniéndome actualizado con las últimas tendencias y mejores prácticas (¡ala! para que no digan que no me vendo bien).
 
 ---
+[![Volkov-Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Volkov-Anton's github stats](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&theme=tokyonight) | ![Volkov-Anton GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Volkov-Anton&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkov-Anton&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |.
 
 Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!
 
