@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="800" />
   <h1 align="center"><span style="color:magenta;">¡Bienvenidos a mi perfil, Hackermen!</span></h1>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Swift+Padawan;Apasionado+de+la+ciencia+ficci%C3%B3n;los+c%C3%B3mics+y+el+cine+de+los+80;Friki+de+Pata+Negra"></a>
+</p>
   <h3 align="center">Swift Padawan. Apasionado de la ciencia ficción, los cómics y el cine de los 80. Friki de Pata Negra.</h3>
   <a href="https://twitter.com/Anton_VoIkov" target="_blank">
     <img alt="Seguir en X (anteriormente Twitter)" src="https://img.shields.io/twitter/follow/Anton_VoIkov?style=for-the-badge&logo=x&logoColor=white&color=magenta">
