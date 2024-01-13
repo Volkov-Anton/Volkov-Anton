@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis areas de interés</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> MIS AREAS DE INTERÉS</b>
 <br>
 
 Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés tanto en el desarrollo de aplicaciones iOS como en la creación de videojuegos con Unreal Engine. Aquí os dejo mis áreas de interés y las tecnologías que me interesan:
