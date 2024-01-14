@@ -22,7 +22,7 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 - **SwiftUI y UIKit** 🖼️: Wu shu, Chi Kung, Feng Shui... algún día tenía que ampliar mi vocabulario de chino mandarín, ¿no?
 - **Core Data** 💾: Trabajando el core, ¡vuuuamos!
 
-### <div align="center">DESARROLLO DE VIDEOJUEGOS CON UNREAL ENGINE</div>
+### <div align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> DESARROLLO DE VIDEOJUEGOS CON UNREAL ENGINE <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </div>
 - **Unreal Engine** 🎮: Fascinado por la creación de mundos y experiencias de juego ricas e inmersivas.
 - **C++** 💻
 - **Blueprint Visual Scripting** 📝
