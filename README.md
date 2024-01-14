@@ -70,3 +70,6 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 <div align="center">
   <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="100%" />
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Volkov-Anton&label=Visitors+Count&color=brightgreen" style="width:150px;height:auto;">
+</div>
