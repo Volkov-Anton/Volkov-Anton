@@ -15,7 +15,7 @@
 
 Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés tanto en el desarrollo de aplicaciones iOS como en la creación de videojuegos con Unreal Engine. Aquí os dejo mis áreas de interés y las tecnologías que me interesan:
 
-### <div align="center">DESARROLLO DE APLICACIONES IOS</div>
+### <div align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> DESARROLLO DE APLICACIONES IOS <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </div>
 - **Swift** 🚀: Mi sueño es crear una aplicación látigo como la de "The Big Bang Theory", Temporada 5 - Episodio 19.
 - **Objective-C** 🧩: Era esto o COBOL, yo qué sé.
 - **Xcode** 🛠️: ¿Estás utilizando Xcode? Hago chas y aparezco a tu lado.
@@ -27,13 +27,13 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 - **C++** 💻
 - **Blueprint Visual Scripting** 📝
 
-### <div align="center">OTROS INTERESES</div>
+### <div align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> OTROS INTERESES <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </div>
 - **Quarks, Materia oscura, Teoría de cuerdas, Relatividad general, Cosmología cuántica y otras movidas muy tochas** 🌌
 - **Comunidad y Aprendizaje Continuo** 🌍📖: Activo en comunidades online, participando en proyectos colaborativos y manteniéndome actualizado con las últimas tendencias y mejores prácticas.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### <div align="center">TECNOLOGÍAS Y HERRAMIENTAS</div>
+### <div align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> TECNOLOGÍAS Y HERRAMIENTAS <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="50" height="50" alt="Swift" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" width="50" height="50" alt="Objective-C" />
