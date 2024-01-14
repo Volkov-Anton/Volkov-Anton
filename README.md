@@ -48,12 +48,6 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov" alt="Actividad de Anton Volkov">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov" alt="Actividad de Anton Volkov">
-</div>
-
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight" alt="Gráfico de Actividad de GitHub">
 </div>
