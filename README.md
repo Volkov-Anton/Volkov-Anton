@@ -34,6 +34,7 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 - **Quarks, Materia oscura, Teoría de cuerdas, Relatividad general, Cosmología cuántica y otras movidas muy tochas** 🌌
 - **Comunidad y Aprendizaje Continuo** 🌍📖: Activo en comunidades online, participando en proyectos colaborativos y manteniéndome actualizado con las últimas tendencias y mejores prácticas (¡ala! para que no digan que no me vendo bien).
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
 ### Tecnologías y Herramientas
 
@@ -50,6 +51,8 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ![Actividad de Anton Volkov](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov)
 
 [![Volkov-Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight)](https://git.io/praveenscience)
@@ -59,7 +62,7 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkov-Anton&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |.
 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!
 
