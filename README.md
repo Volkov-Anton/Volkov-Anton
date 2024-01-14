@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block; margin: auto;"><br><br>
 
 <h2 style="text-align: center;"><b>MIS ÁREAS DE INTERÉS</b></h2>
 <p style="text-align: center;">Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés tanto en el desarrollo de aplicaciones iOS como en la creación de videojuegos con Unreal Engine. Aquí os dejo mis áreas de interés y las tecnologías que me interesan:</p>
@@ -31,8 +31,8 @@
 <br>
 
 <div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="display: block; margin: auto;"><br><br>
+
   <h3>Tecnologías y Herramientas</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="50" height="50" />
@@ -40,23 +40,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="50" height="50" />
   <br><br>
-  
   <!-- Estadísticas de GitHub -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov" alt="Actividad de Anton Volkov">
-  <div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov" alt="Actividad de Anton Volkov" style="display: block; margin: auto;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&theme=tokyonight" alt="Volkov-Anton's GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Volkov-Anton&theme=tokyonight" alt="Volkov-Anton's GitHub Streak">
   </div>
-  <div>
+  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volkov-Anton&theme=tokyonight" alt="Top Languages">
     <img src="https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Github Stars">
   </div>
 </div>
-
 <br>
-
 <p style="text-align: center;">Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!</p>
-
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="800" />
 </div>
+
