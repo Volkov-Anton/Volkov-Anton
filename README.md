@@ -50,17 +50,16 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 
 [![Volkov-Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Volkov-Anton's github stats](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&theme=tokyonight) | ![Volkov-Anton GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Volkov-Anton&theme=tokyonight) |
+| ![Volkov-Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&theme=tokyonight) | ![Volkov-Anton GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Volkov-Anton&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkov-Anton&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |.
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkov-Anton&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <a href="https://github.com/Volkov-Anton?tab=repositories">
   <img src="https://github-profile-trophy.vercel.app/?username=Volkov-Anton&column=8&margin-w=15&margin-h=15" alt="Volkov-Anton">
 </a>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 
 <p align="center">Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!</p>
 
