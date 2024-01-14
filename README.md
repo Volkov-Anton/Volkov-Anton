@@ -48,7 +48,9 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f75c7e&size=30&center=true&vCenter=true&width=600&height=100&lines=Actividad+de+Anton+Volkov" alt="Actividad de Anton Volkov">
 </div>
 
-[![Volkov-Anton's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight)](https://git.io/praveenscience)
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Volkov-Anton&theme=tokyonight" alt="Volkov-Anton's GitHub Activity Graph">
+</div>
 
 | ![Volkov-Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Volkov-Anton&show_icons=true&theme=tokyonight) | ![Volkov-Anton GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Volkov-Anton&theme=tokyonight) |
 | --- | --- |
@@ -59,7 +61,6 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 
 <p align="center">Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!</p>
 
