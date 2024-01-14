@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="800" />
+  <img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="100%" />
   <h1 style="color:magenta;">¡Bienvenidos a mi perfil, Hackermen!</h1>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Swift+Padawan;Apasionado+de+la+ciencia+ficci%C3%B3n;los+c%C3%B3mics+y+el+cine+de+los+80;Friki+de+Pata+Negra">
@@ -58,5 +58,5 @@ Hola, soy un "joven" padawan en el desarrollo de software con un fuerte interés
 <p align="center">Estoy emocionado de continuar mi viaje en el mundo del desarrollo de software, aprendiendo y creciendo en estas áreas. ¡Estoy abierto a colaborar en proyectos interesantes y compartir conocimientos con la comunidad!</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="800" />
+  <img src="https://media.giphy.com/media/wDaPGTLstdQFq/giphy.gif" width="100%" />
 </div>
